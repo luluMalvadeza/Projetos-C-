@@ -1,0 +1,42 @@
+D:\etim2022.ds\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\etim2022.ds\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\etim2022.ds\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\etim2022.ds\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\etim2022.ds\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\etim2022.ds\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\etim2022.ds\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\etim2022.ds\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\etim2022.ds\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\etim2022.ds\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\gusta\OneDrive - Etec Centro Paula Souza\Desktop\Calculadora2022\Calculadora\obj\Debug\Calculadora.pdb
+D:\internet.info\Desktop\CalculaClasses\Calculadora\bin\Debug\Calculadora.exe.config
+D:\internet.info\Desktop\CalculaClasses\Calculadora\bin\Debug\Calculadora.exe
+D:\internet.info\Desktop\CalculaClasses\Calculadora\bin\Debug\Calculadora.pdb
+D:\internet.info\Desktop\CalculaClasses\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\internet.info\Desktop\CalculaClasses\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+D:\internet.info\Desktop\CalculaClasses\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\internet.info\Desktop\CalculaClasses\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\internet.info\Desktop\CalculaClasses\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\internet.info\Desktop\CalculaClasses\Calculadora\obj\Debug\Calculadora.exe
+D:\internet.info\Desktop\CalculaClasses\Calculadora\obj\Debug\Calculadora.pdb
